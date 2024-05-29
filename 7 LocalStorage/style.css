@@ -1,0 +1,37 @@
+.card-header {
+  text-align: center;
+  font-weight: bold;
+  color: rgb(0, 35, 236) !important;
+  font-size: 25px;
+}
+.dropdown-toggle::after {
+  display: none;
+}
+
+.task {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.task label.checked {
+  text-decoration: line-through;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.filters span.active {
+  color: #1f1ccd;
+}
+
+.filters span {
+  font-size: 16px;
+  color: #424141;
+  cursor: pointer;
+  margin-right: 5px;
+  font-style: italic;
+}
