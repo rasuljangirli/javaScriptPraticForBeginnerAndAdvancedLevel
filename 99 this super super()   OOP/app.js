@@ -1,7 +1,5 @@
 
 class Person {
-    
-
     constructor(firstName, lastName, salary) {
 
         this.firstName = firstName;
