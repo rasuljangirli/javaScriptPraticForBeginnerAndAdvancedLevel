@@ -43,6 +43,6 @@ document.querySelector("#task-list").children[1].classList.add("bg-danger"); //T
 // document.querySelector("#task-list").children[1].classList.remove("bg-danger"); //TODO burada ise elave edilen bilgini biz remove(""); ile silmis olduq.
 sonuc = document
   .querySelector("#task-list")
-  .children[1].classList.contains("bg-danger"); //TODO .contains(""); ise her hansi bir yazinin mueyyen yerde olub olmamasini yoxlayir. yani bize ya true yada false deyer geri dondurur. burada meselen classList icerisinde bg-danger classinin olub olmamasini yoxlayiriq. bize ise true deyer donusdurdu cunki var(elave olaraq qeyd edim ki yuxarida biz bg-danger classini elave etdik .add(""); metodu ile ona gore true cixir consolda eger onu yorum setri etmis olsaq bu zaman false yazisi consolde yazilacaq)
+  .children[1].classList.contains("bg-danger"); 
 
 console.log(sonuc);
