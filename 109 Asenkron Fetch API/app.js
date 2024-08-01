@@ -15,9 +15,6 @@ function getUsers(url) {
 getUsers("info.json")
 
 
-
-
-
 function getComments(url) {
     return fetch(url);
 }
