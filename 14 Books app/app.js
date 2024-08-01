@@ -44,7 +44,6 @@
  [raf21,raf22,raf23,raf24,raf25],
  [raf11,raf12,raf13,raf14,raf15]];
 
-
  function rafOlustur() {
     console.clear();
     let satir = "";
