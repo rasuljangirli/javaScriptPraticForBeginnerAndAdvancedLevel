@@ -9,7 +9,7 @@ function prepareURL(url, id) { // bu function ide gore url-i formalasdirir
 
 function getComments(url, id) { // b u function ise Ajax sorgusu gonderi
     let newURL = prepareURL(url, id);
-
+    
     const xhr = new XMLHttpRequest();
     xhr.addEventListener("readystatechange", () => {
         if (xhr.readyState === 4 && xhr.status === 200) {
