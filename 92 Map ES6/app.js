@@ -43,7 +43,6 @@ map1.set(1,"Adana");
 //     console.log(value)
 // }
 
-
 //? Map-den Arreye kecmek
 //todo  Array.from(); istifade edilir
 // const myArray = Array.from(map1);
