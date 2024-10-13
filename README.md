@@ -16,7 +16,15 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
   * ### Beden Kutle Indeksi - filename: `DaysOfTheWeek`
   
-    Bu faylda bizə gələn iki dəyər `Boy` və `Kilo` əsasında müəyyən hesablama ilə bir dəyər alırıq. Daha sonra isə `if else` ilə müəyyən dərəcələr qoyuruq ki, dəyər bu aralıqdadırsa, çıxış dəyəri bu olsun; yox, əgər digər aralıqdadırsa, çıxış dəyəri bu olsun. Əsas məqsəd gələn dəyərlər əsasında müəyyən bir dəyər hesablaya bilmək və həmin dəyərin hansı aralıqda olduğunu yoxlayaraq müəyyən nəticə çıxarmaqdır.
+    Bu proyektdə `Javascriptin` bizə təqdim etdiyi `switch` və ` case`-dən istifadə etdik. Sadə bir təcrübə ilə bu funksionallıqdan istifadə etmiş olduğ. Burada səhivə açıldıgı zaman istifadəçinin qarşısına bir `prompt` çıxır və içərisində mətn var. İstifadəçi bu mətndə seçimlərini görür. həftənin hər hansı gününü seçdikdə o `console` vasitəsi ilə istifadəçiyə göstərilir. əgər aralığ xaricində seçim edərsə Error )) yazısı çıxır. 
+    
+
+
+
+
+
+
+    
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
