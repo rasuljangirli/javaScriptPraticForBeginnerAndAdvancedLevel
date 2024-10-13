@@ -15,7 +15,8 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
 
   * ### Beden Kutle Indeksi - filename: `DaysOfTheWeek`
-  Bu faylda bizə gələn iki dəyər `Boy` və `Kilo` əsasında müəyyən hesablama ilə bir dəyər alırıq. Daha sonra isə `if else` ilə müəyyən dərəcələr qoyuruq ki, dəyər bu aralıqdadırsa, çıxış dəyəri bu olsun; yox, əgər digər aralıqdadırsa, çıxış dəyəri bu olsun. Əsas məqsəd gələn dəyərlər əsasında müəyyən bir dəyər hesablaya bilmək və həmin dəyərin hansı aralıqda olduğunu yoxlayaraq müəyyən nəticə çıxarmaqdır.
+  
+    Bu faylda bizə gələn iki dəyər `Boy` və `Kilo` əsasında müəyyən hesablama ilə bir dəyər alırıq. Daha sonra isə `if else` ilə müəyyən dərəcələr qoyuruq ki, dəyər bu aralıqdadırsa, çıxış dəyəri bu olsun; yox, əgər digər aralıqdadırsa, çıxış dəyəri bu olsun. Əsas məqsəd gələn dəyərlər əsasında müəyyən bir dəyər hesablaya bilmək və həmin dəyərin hansı aralıqda olduğunu yoxlayaraq müəyyən nəticə çıxarmaqdır.
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
