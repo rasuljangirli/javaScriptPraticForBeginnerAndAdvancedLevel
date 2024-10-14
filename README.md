@@ -21,7 +21,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
 * ### Həftənin Günləri - filename: `DaysOfTheWeek`
   
-     Bu proyektdə də `Javascriptin` bizə təqdim etdiyi `switch` və ` case`-dən istifadə etdik.
+     Bu proyektdə də `Javascriptin` bizə təqdim etdiyi `switch` və ` case`-dən istifadə etdik. Təbii ki gerçək ATM daha fərqli dərin alqoritimlərlə işləyir. Biz sadəcə sadə formada buna bənzər bir proyekt hazırladıq. Önəmli olan kodu incələməkdir və özünüzdən əlavələr etmək başqa yollarla eyni kodu yazmaqdır. Burada 
 
 
 
