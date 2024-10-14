@@ -19,9 +19,9 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
     Bu proyektdə `Javascriptin` bizə təqdim etdiyi `switch` və ` case`-dən istifadə etdik. Sadə bir təcrübə ilə bu funksionallıqdan istifadə etmiş olduğ. Burada səhivə açıldıgı zaman istifadəçinin qarşısına bir `prompt` çıxır və içərisində mətn var. İstifadəçi bu mətndə seçimlərini görür. həftənin hər hansı gününü seçdikdə o `console` vasitəsi ilə istifadəçiyə göstərilir. əgər aralığ xaricində seçim edərsə Error )) yazısı çıxır. 
     
 
-* ### Həftənin Günləri - filename: `DaysOfTheWeek`
-  
-     Bu proyektdə də `Javascriptin` bizə təqdim etdiyi `switch` və ` case`-dən istifadə etdik. Təbii ki gerçək ATM daha fərqli dərin alqoritimlərlə işləyir. Biz sadəcə sadə formada buna bənzər bir proyekt hazırladıq. Önəmli olan kodu incələməkdir və özünüzdən əlavələr etmək başqa yollarla eyni kodu yazmaqdır. Burada istifadəçinin balansı öncədən bir dəyərə bərabərdir. Daxil edilən dəyər əsasında yani istifadəçinin seçimi nəticəsinə uyöun cavablar çıxarırıq ekrana
+  * ### ATM App - filename: `atmApp`
+    
+      Bu proyektdə də `Javascriptin` bizə təqdim etdiyi `switch` və ` case`-dən istifadə etdik. Təbii ki gerçək ATM daha fərqli dərin alqoritimlərlə işləyir. Biz sadəcə sadə formada buna bənzər bir proyekt hazırladıq. Önəmli olan kodu incələməkdir və özünüzdən əlavələr etmək başqa yollarla eyni kodu yazmaqdır. Burada istifadəçinin balansı öncədən bir dəyərə bərabərdir. Daxil edilən dəyər əsasında yani istifadəçinin seçimi nəticəsinə ekrana uyöun cavablar çıxarırıq
 
 
 
