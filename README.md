@@ -19,7 +19,9 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
     Bu proyektdə `Javascriptin` bizə təqdim etdiyi `switch` və ` case`-dən istifadə etdik. Sadə bir təcrübə ilə bu funksionallıqdan istifadə etmiş olduğ. Burada səhivə açıldıgı zaman istifadəçinin qarşısına bir `prompt` çıxır və içərisində mətn var. İstifadəçi bu mətndə seçimlərini görür. həftənin hər hansı gününü seçdikdə o `console` vasitəsi ilə istifadəçiyə göstərilir. əgər aralığ xaricində seçim edərsə Error )) yazısı çıxır. 
     
 
-
+* ### Həftənin Günləri - filename: `DaysOfTheWeek`
+  
+     Bu proyektdə də `Javascriptin` bizə təqdim etdiyi `switch` və ` case`-dən istifadə etdik.
 
 
 
