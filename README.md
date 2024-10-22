@@ -27,6 +27,9 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
       
       Bu proyektdə **for loop** istifadə edilərək iç-içə dövrlər yazılmışdır. Burada biz vurma cədvəlini yazmaq üçün iki dövür yazmışıq və bu dövrlər iç-içə olduğu üçün ən kənar loop məcbur içindəki loop-un işini bitirməsini gözləyəcək. Bu zaman ən xaricdə olan loopun dəyəri sabit qalaraq içdəki loop daxilindəki proseslərə tabe olacaq. İç loop bitdikdən sonra artıq kənardakı loop növbəti dəyəri vermiş olacaq. Bu formada müəyyən bir **console** çıxdısı alırıq.
 
+  * ### Prime Number - filename: `primeNumber`
+      
+      Bu proyektdə **for loop** və **if else** istifadə edilərək daxil edilən rəqəmin (ədədin) sadə olub olmadığını yoxlayırıq.Umumilikdə kodlar arasında da qeydlər yaz
 
 
 
