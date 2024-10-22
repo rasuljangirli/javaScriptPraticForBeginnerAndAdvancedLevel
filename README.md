@@ -29,7 +29,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
   * ### Prime Number - filename: `primeNumber`
       
-      Bu proyektdə **for loop** və **if else** istifadə edilərək daxil edilən rəqəmin (ədədin) sadə olub olmadığını yoxlayırıq.Ümumilikdə kodlar arasında da qeydlər yazılmışdır. Qeydlərə baxaraq
+      Bu proyektdə **for loop** və **if else** istifadə edilərək daxil edilən rəqəmin (ədədin) sadə olub olmadığını yoxlayırıq.Ümumilikdə kodlar arasında da qeydlər yazılmışdır. Qeydlərə baxaraq kodu daha aydın anlamağ mümkündür.
 
 
 
