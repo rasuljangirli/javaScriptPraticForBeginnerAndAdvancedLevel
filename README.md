@@ -31,6 +31,9 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
       
       Bu proyektdə **for loop** və **if else** istifadə edilərək daxil edilən rəqəmin (ədədin) sadə olub olmadığını yoxlayırıq.Ümumilikdə kodlar arasında da qeydlər yazılmışdır. Qeydlərə baxaraq kodu daha aydın anlamağ mümkündür.
 
+  * ### Finding Factorials - filename: `findingFactorials`
+      
+      Burada sadə bir şəkildə factorial tapmağ üçün **for** yazmışığ. Ümumilikdə çox sadə gələ bilər sadəcə başlanğıc səviyyədəsinizsə bu sizin üçün sizin zehninizin javascriptdə görüləcəl işlər və yazılacaq kodlar üçün əla təcrübədir. Çalışıb bu kodları fərqli formalarda yazın özünüzdən əlavələr edin dəyişgənlərin yerini dəyişdirin v.s.
 
 
 
