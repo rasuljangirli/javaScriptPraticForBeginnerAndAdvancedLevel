@@ -37,7 +37,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
   * ### Finding Armstrong Number - filename: `findingArmstrongNumber`
       
-    BU kodları anlamağ üçün ilk öncə Armstrong ədəd nədir onu bilmək lazımdır. Kod daxilində bununla bağlı qeydim mövcuddur. Daha sonra isə kod sətrində ilk öncə biz `for` ilə ədədin hər bir rəqəmini tuta biləcək şəkildə dövr edirik. Bu tutulan rəqəmlər üzərində əməliiyat aparıb müəyyən dəyişgəndə bunu saxlayırıq. daha sonra isə `if else` ilə yoxlama işi aparırığ və buna uyöun nəticə göstərilmiş olur.
+    BU kodları anlamağ üçün ilk öncə Armstrong ədəd nədir onu bilmək lazımdır. Kod daxilində bununla bağlı qeydim mövcuddur. Daha sonra isə kod sətrində ilk öncə biz `for` ilə ədədin hər bir rəqəmini tuta biləcək şəkildə dövr edirik. Bu tutulan rəqəmlər üzərində əməliiyat aparıb müəyyən dəyişgəndə bunu saxlayırıq. daha sonra isə `if else` ilə yoxlama işi aparırığ və buna uyğun nəticə göstərilmiş olur.
 
 
 ---
