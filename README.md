@@ -8,7 +8,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
 ### PROYEKTLƏR HAQQINDA MƏLUMAT:
 
-  * ### Beden Kutle Indeksi - filename: `bodyMassIndex`
+  * ### Bədənn Kütlə Indeksi - filename: `bodyMassIndex`
     
     Bu faylda bizə gələn iki dəyər `Boy` və `Çəki` əsasında müəyyən hesablama ilə bir dəyər alırıq. Daha sonra isə `if else` ilə müəyyən dərəcələr qoyuruq ki, dəyər bu aralıqdadırsa, çıxış dəyəri bu olsun; yox, əgər digər aralıqdadırsa, çıxış dəyəri bu olsun. Əsas məqsəd gələn dəyərlər əsasında müəyyən bir dəyər hesablaya bilmək və həmin dəyərin hansı aralıqda olduğunu yoxlayaraq müəyyən nəticə çıxarmaqdır.
 
