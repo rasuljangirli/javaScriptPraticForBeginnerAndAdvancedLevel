@@ -10,7 +10,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
   * ### Beden Kutle Indeksi - filename: `bodyMassIndex`
     
-    Bu faylda bizə gələn iki dəyər `Boy` və `Kilo` əsasında müəyyən hesablama ilə bir dəyər alırıq. Daha sonra isə `if else` ilə müəyyən dərəcələr qoyuruq ki, dəyər bu aralıqdadırsa, çıxış dəyəri bu olsun; yox, əgər digər aralıqdadırsa, çıxış dəyəri bu olsun. Əsas məqsəd gələn dəyərlər əsasında müəyyən bir dəyər hesablaya bilmək və həmin dəyərin hansı aralıqda olduğunu yoxlayaraq müəyyən nəticə çıxarmaqdır.
+    Bu faylda bizə gələn iki dəyər `Boy` və `Çəki` əsasında müəyyən hesablama ilə bir dəyər alırıq. Daha sonra isə `if else` ilə müəyyən dərəcələr qoyuruq ki, dəyər bu aralıqdadırsa, çıxış dəyəri bu olsun; yox, əgər digər aralıqdadırsa, çıxış dəyəri bu olsun. Əsas məqsəd gələn dəyərlər əsasında müəyyən bir dəyər hesablaya bilmək və həmin dəyərin hansı aralıqda olduğunu yoxlayaraq müəyyən nəticə çıxarmaqdır.
 
 
 
@@ -25,16 +25,19 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
   * ### Multiplication Table - filename: `multiplicetionTable`
       
-      Bu proyektdə **for loop** istifadə edilərək iç-içə dövrlər yazılmışdır. Burada biz vurma cədvəlini yazmaq üçün iki dövür yazmışıq və bu dövrlər iç-içə olduğu üçün ən kənar loop məcbur içindəki loop-un işini bitirməsini gözləyəcək. Bu zaman ən xaricdə olan loopun dəyəri sabit qalaraq içdəki loop daxilindəki proseslərə tabe olacaq. İç loop bitdikdən sonra artıq kənardakı loop növbəti dəyəri vermiş olacaq. Bu formada müəyyən bir **console** çıxdısı alırıq.
+      Bu proyektdə `for loop` istifadə edilərək iç-içə dövrlər yazılmışdır. Burada biz vurma cədvəlini yazmaq üçün iki dövür yazmışıq və bu dövrlər iç-içə olduğu üçün ən kənar loop məcbur içindəki loop-un işini bitirməsini gözləyəcək. Bu zaman ən xaricdə olan loopun dəyəri sabit qalaraq içdəki loop daxilindəki proseslərə tabe olacaq. İç loop bitdikdən sonra artıq kənardakı loop növbəti dəyəri vermiş olacaq. Bu formada müəyyən bir `console` çıxdısı alırıq.
 
   * ### Prime Number - filename: `primeNumber`
       
-      Bu proyektdə **for loop** və **if else** istifadə edilərək daxil edilən rəqəmin (ədədin) sadə olub olmadığını yoxlayırıq.Ümumilikdə kodlar arasında da qeydlər yazılmışdır. Qeydlərə baxaraq kodu daha aydın anlamağ mümkündür.
+      Bu proyektdə `for loop` və `if else` istifadə edilərək daxil edilən rəqəmin (ədədin) sadə olub olmadığını yoxlayırıq.Ümumilikdə kodlar arasında da qeydlər yazılmışdır. Qeydlərə baxaraq kodu daha aydın anlamağ mümkündür.
 
   * ### Finding Factorials - filename: `findingFactorials`
-      
-      Burada sadə bir şəkildə factorial tapmağ üçün **for** yazmışığ. Ümumilikdə çox sadə gələ bilər sadəcə başlanğıc səviyyədəsinizsə bu sizin üçün sizin zehninizin javascriptdə görüləcək işlər və yazılacaq kodlar üçün əla təcrübədir. Çalışıb bu kodları fərqli formalarda yazın özünüzdən əlavələr edin dəyişgənlərin yerini dəyişdirin v.s.
+    
+      Burada sadə bir şəkildə factorial tapmağ üçün `for` yazmışığ. Ümumilikdə çox sadə gələ bilər sadəcə başlanğıc səviyyədəsinizsə bu sizin üçün sizin zehninizin javascriptdə görüləcək işlər və yazılacaq kodlar üçün əla təcrübədir. Çalışıb bu kodları fərqli formalarda yazın özünüzdən əlavələr edin dəyişgənlərin yerini dəyişdirin v.s.
 
+  * ### Finding Armstrong Number - filename: `findingArmstrongNumber`
+      
+    BU kodları anlamağ üçün ilk öncə Armstrong ədəd nədir onu bilmək lazımdır. Kod daxilində bununla bağlı qeydim mövcuddur. Daha sonra isə kod sətrində ilk öncə biz `for` ilə ədədin hər bir rəqəmini tuta biləcək şəkildə dövr edirik. Bu tutulan rəqəmlər üzərində əməliiyat aparıb müəyyən dəyişgəndə bunu saxlayırıq. daha sonra isə `if else` ilə yoxlama işi aparırığ və buna uyöun nəticə göstərilmiş olur.
 
 
 ---
