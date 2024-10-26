@@ -2,7 +2,7 @@
 
 const newLine = "\r\n";
 
-let metin = "1" + newLine + "2" + newLine + "3" + newLine + "4" + newLine + "5" + newLine + "6" + newLine + "7";
+let metin = "1 " + newLine + "2" + newLine + "3" + newLine + "4" + newLine + "5" + newLine + "6" + newLine + "7";
 
 let sayi = Number(prompt(metin));
 
