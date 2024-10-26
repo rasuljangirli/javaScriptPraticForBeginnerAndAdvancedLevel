@@ -39,6 +39,10 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
       
     BU kodları anlamağ üçün ilk öncə Armstrong ədəd nədir onu bilmək lazımdır. Kod daxilində bununla bağlı qeydim mövcuddur. Daha sonra isə kod sətrində ilk öncə biz `for` ilə ədədin hər bir rəqəmini tuta biləcək şəkildə dövr edirik. Bu tutulan rəqəmlər üzərində əməliiyat aparıb müəyyən dəyişgəndə bunu saxlayırıq. daha sonra isə `if else` ilə yoxlama işi aparırığ və buna uyğun nəticə göstərilmiş olur.
 
+  * ### Finding Letter - filename: `findingLetter`
+      
+    Burada isə bizim yazdığımız kod gələn mətnin içində bir hərfin nə qədər olduğunu tapır. Burada diqqət edilməli olan məqam kodun böyük kiçik hərfləri fərqli element olarağ qəbul etməsidir. Əgər bunu aradan qaldırmağ istəyiriksə `if` blokunda yoxlama hissəsində hər iki tərəfi ya böyük hərflərə çevirib yada kiçik hərflərə çevirib yoxlama apara bilərik.
+
 
 ---
 
