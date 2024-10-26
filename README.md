@@ -43,7 +43,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
       
     Burada isə bizim yazdığımız kod gələn mətnin içində bir hərfin nə qədər olduğunu tapır. Burada diqqət edilməli olan məqam kodun böyük kiçik hərfləri fərqli element olarağ qəbul etməsidir. Əgər bunu aradan qaldırmağ istəyiriksə `if` blokunda yoxlama hissəsində hər iki tərəfi ya böyük hərflərə çevirib yada kiçik hərflərə çevirib yoxlama apara bilərik.
 
-
+ 
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
