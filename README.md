@@ -43,6 +43,11 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
       
     Burada isə bizim yazdığımız kod gələn mətnin içində bir hərfin nə qədər olduğunu tapır. Burada diqqət edilməli olan məqam kodun böyük kiçik hərfləri fərqli element olarağ qəbul etməsidir. Əgər bunu aradan qaldırmağ istəyiriksə `if` blokunda yoxlama hissəsində hər iki tərəfi ya böyük hərflərə çevirib yada kiçik hərflərə çevirib yoxlama apara bilərik.
 
+
+  * ### Finding Perfect Number - filename: `findingPerfectNumber`
+      
+    Bu kodu yaza bilmək üçün ilk öncə mükəmməl ədədin nə olduğunu bilmək lazımdır. Bununla bağlı kod daxilində xüsusi qeydlər və izah mövcuddur. Qısa olarağ isə burada məlumat olarağ deyim ki bu kod parçasında `function` `for` `if else` istifadə edərək daha sonra `let` ilə dəyişgən təyin edilməsi və ona müxtəlif təsirlərin olunmasını görə bilirik. 
+
  
 ---
 
