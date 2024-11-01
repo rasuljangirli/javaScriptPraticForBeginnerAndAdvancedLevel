@@ -48,7 +48,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
       
     Bu kodu yaza bilmək üçün ilk öncə mükəmməl ədədin nə olduğunu bilmək lazımdır. Bununla bağlı kod daxilində xüsusi qeydlər və izah mövcuddur. Qısa olarağ isə burada məlumat olarağ deyim ki bu kod parçasında `function` `for` `if else` istifadə edərək daha sonra `let` ilə dəyişgən təyin edilməsi və ona müxtəlif təsirlərin olunmasını görə bilirik. 
 
-  * ### Product tapmaö - filename: `productSearch`
+  * ### Product tapmağ - filename: `productSearch`
       
     Biz burada ilk öncə bir məlumat toplusu müəyyən productlar haqqında data yaratdığ özümüzdən. productList arreyi içərisində bu dataları topladığ. Daha sonra istifadəçidən gələn product adı ilə productList arreyi içərisindəki dataların productName hissələrini qarşılaədırdığ və burada bir birinə bərabər olan adlara sahib datalar başqa bir arreydə `push` methodu ilə yəni filter edilmiş arreydə toplanmış oldu. Artığ əlimizdə filter edilmiş datalar yəni istifadəçinin istədiyi datalar mövcuddur. Geridə qalan sadəcə bu məlumatı istifadəçiyə təqdim etməkdir. Bunun üçün başqa bir function yazırığ və bu filter edilmiş dataların toplandığı arreyi biz bu functiona parametr olarağ veririk. Function içərisində sadəcə bu arrey üzərində dönərək lazım olan hissələrini ekrana yazdırmağ qalır və bunu `console` ilə yazırığ.
 
