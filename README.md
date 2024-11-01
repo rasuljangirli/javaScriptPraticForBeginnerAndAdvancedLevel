@@ -27,32 +27,35 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
       
       Bu proyektdə `for loop` istifadə edilərək iç-içə dövrlər yazılmışdır. Burada biz vurma cədvəlini yazmaq üçün iki dövür yazmışıq və bu dövrlər iç-içə olduğu üçün ən kənar loop məcbur içindəki loop-un işini bitirməsini gözləyəcək. Bu zaman ən xaricdə olan loopun dəyəri sabit qalaraq içdəki loop daxilindəki proseslərə tabe olacaq. İç loop bitdikdən sonra artıq kənardakı loop növbəti dəyəri vermiş olacaq. Bu formada müəyyən bir `console` çıxdısı alırıq.
 
-  * ### Prime Number - filename: `primeNumber`
+  * ### Sadə Ədəd - filename: `primeNumber`
       
       Bu proyektdə `for loop` və `if else` istifadə edilərək daxil edilən rəqəmin (ədədin) sadə olub olmadığını yoxlayırıq. Ümumilikdə kodlar arasında da qeydlər yazılmışdır. Qeydlərə baxaraq kodu daha aydın anlamağ mümkündür.
 
-  * ### Finding Factorials - filename: `findingFactorials`
+  * ### Factorial tapmağ - filename: `findingFactorials`
     
       Burada sadə bir şəkildə factorial tapmağ üçün `for` yazmışığ. Ümumilikdə çox sadə gələ bilər sadəcə başlanğıc səviyyədəsinizsə bu sizin üçün sizin zehninizin javascriptdə görüləcək işlər və yazılacaq kodlar üçün əla təcrübədir. Çalışıb bu kodları fərqli formalarda yazın özünüzdən əlavələr edin dəyişgənlərin yerini dəyişdirin v.s.
 
-  * ### Finding Armstrong Number - filename: `findingArmstrongNumber`
+  * ### Armstrong ədəd tapmağ - filename: `findingArmstrongNumber`
       
     BU kodları anlamağ üçün ilk öncə Armstrong ədəd nədir onu bilmək lazımdır. Kod daxilində bununla bağlı qeydim mövcuddur. Daha sonra isə kod sətrində ilk öncə biz `for` ilə ədədin hər bir rəqəmini tuta biləcək şəkildə dövr edirik. Bu tutulan rəqəmlər üzərində əməliiyat aparıb müəyyən dəyişgəndə bunu saxlayırıq. daha sonra isə `if else` ilə yoxlama işi aparırığ və buna uyğun nəticə göstərilmiş olur.
 
-  * ### Finding Letter - filename: `findingLetter`
+  * ### Hərf tapmağ - filename: `findingLetter`
       
     Burada isə bizim yazdığımız kod gələn mətnin içində bir hərfin nə qədər olduğunu tapır. Burada diqqət edilməli olan məqam kodun böyük kiçik hərfləri fərqli element olarağ qəbul etməsidir. Əgər bunu aradan qaldırmağ istəyiriksə `if` blokunda yoxlama hissəsində hər iki tərəfi ya böyük hərflərə çevirib yada kiçik hərflərə çevirib yoxlama apara bilərik.
 
 
-  * ### Finding Perfect Number - filename: `findingPerfectNumber`
+  * ### Mükəmməl ədəd tapmağ - filename: `findingPerfectNumber`
       
     Bu kodu yaza bilmək üçün ilk öncə mükəmməl ədədin nə olduğunu bilmək lazımdır. Bununla bağlı kod daxilində xüsusi qeydlər və izah mövcuddur. Qısa olarağ isə burada məlumat olarağ deyim ki bu kod parçasında `function` `for` `if else` istifadə edərək daha sonra `let` ilə dəyişgən təyin edilməsi və ona müxtəlif təsirlərin olunmasını görə bilirik. 
 
-  * ### Product Search - filename: `productSearch`
+  * ### Product tapmaö - filename: `productSearch`
       
     Biz burada ilk öncə bir məlumat toplusu müəyyən productlar haqqında data yaratdığ özümüzdən. productList arreyi içərisində bu dataları topladığ. Daha sonra istifadəçidən gələn product adı ilə productList arreyi içərisindəki dataların productName hissələrini qarşılaədırdığ və burada bir birinə bərabər olan adlara sahib datalar başqa bir arreydə `push` methodu ilə yəni filter edilmiş arreydə toplanmış oldu. Artığ əlimizdə filter edilmiş datalar yəni istifadəçinin istədiyi datalar mövcuddur. Geridə qalan sadəcə bu məlumatı istifadəçiyə təqdim etməkdir. Bunun üçün başqa bir function yazırığ və bu filter edilmiş dataların toplandığı arreyi biz bu functiona parametr olarağ veririk. Function içərisində sadəcə bu arrey üzərində dönərək lazım olan hissələrini ekrana yazdırmağ qalır və bunu `console` ilə yazırığ.
 
     Normalda bu datalar bizə api istəkləri etdiyimiz zaman back-end tərəfdən gəlmiş olacaq. Bu zaman bizim özümüzdən müəyyən data yaratmağımız lazım olmayacaq. Burada sadəcə müəyyən functionallığların görülməsi üçün bu formada datalar yazdığ.
+
+
+    
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
