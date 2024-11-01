@@ -23,13 +23,13 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
     
       Bu proyektdə də `Javascriptin` bizə təqdim etdiyi `switch` və ` case`-dən istifadə etdik. Təbii ki gerçək ATM daha fərqli dərin alqoritimlərlə işləyir. Biz sadəcə sadə formada buna bənzər bir proyekt hazırladıq. Önəmli olan kodu incələməkdir və özünüzdən əlavələr etmək başqa yollarla eyni kodu yazmaqdır. Burada istifadəçinin balansı öncədən bir dəyərə bərabərdir. Daxil edilən dəyər əsasında yani istifadəçinin seçimi nəticəsinə ekrana uyöun cavablar çıxarırıq
 
-  * ### Multiplication Table - filename: `multiplicetionTable`
+  * ### Vurma Cədvəli - filename: `multiplicetionTable`
       
       Bu proyektdə `for loop` istifadə edilərək iç-içə dövrlər yazılmışdır. Burada biz vurma cədvəlini yazmaq üçün iki dövür yazmışıq və bu dövrlər iç-içə olduğu üçün ən kənar loop məcbur içindəki loop-un işini bitirməsini gözləyəcək. Bu zaman ən xaricdə olan loopun dəyəri sabit qalaraq içdəki loop daxilindəki proseslərə tabe olacaq. İç loop bitdikdən sonra artıq kənardakı loop növbəti dəyəri vermiş olacaq. Bu formada müəyyən bir `console` çıxdısı alırıq.
 
   * ### Prime Number - filename: `primeNumber`
       
-      Bu proyektdə `for loop` və `if else` istifadə edilərək daxil edilən rəqəmin (ədədin) sadə olub olmadığını yoxlayırıq.Ümumilikdə kodlar arasında da qeydlər yazılmışdır. Qeydlərə baxaraq kodu daha aydın anlamağ mümkündür.
+      Bu proyektdə `for loop` və `if else` istifadə edilərək daxil edilən rəqəmin (ədədin) sadə olub olmadığını yoxlayırıq. Ümumilikdə kodlar arasında da qeydlər yazılmışdır. Qeydlərə baxaraq kodu daha aydın anlamağ mümkündür.
 
   * ### Finding Factorials - filename: `findingFactorials`
     
