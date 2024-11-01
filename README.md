@@ -52,7 +52,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
       
     Biz burada ilk öncə bir məlumat toplusu müəyyən productlar haqqında data yaratdığ özümüzdən. productList arreyi içərisində bu dataları topladığ. Daha sonra istifadəçidən gələn product adı ilə productList arreyi içərisindəki dataların productName hissələrini qarşılaədırdığ və burada bir birinə bərabər olan adlara sahib datalar başqa bir arreydə `push` methodu ilə yəni filter edilmiş arreydə toplanmış oldu. Artığ əlimizdə filter edilmiş datalar yəni istifadəçinin istədiyi datalar mövcuddur. Geridə qalan sadəcə bu məlumatı istifadəçiyə təqdim etməkdir. Bunun üçün başqa bir function yazırığ və bu filter edilmiş dataların toplandığı arreyi biz bu functiona parametr olarağ veririk. Function içərisində sadəcə bu arrey üzərində dönərək lazım olan hissələrini ekrana yazdırmağ qalır və bunu `console` ilə yazırığ.
 
-    Normalda bu datalar bizə api istəkləri etdiyimiz zaman back-end tərəfdən gəlmiş olacaq. Bu zaman bizim özümüzdən müəyyən data yaratmağımız lazım olmayacaq. Burada sadəcə müəyyən functionallığların görülməsi üçün bu formada datalar yazdığ.
+    Normalda bu datalar bizə api istəkləri etdiyimiz zaman back-end tərəfdən gəlmiş olacaq. Bu zaman bizim özümüzdən müəyyən data yaratmağımız lazım olmayacaq. 
 ---
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
