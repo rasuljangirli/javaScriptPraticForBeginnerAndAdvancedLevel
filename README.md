@@ -56,11 +56,11 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
   * ### Todo List - filename: `todoList`
       
-  Bu layihə, əvvəlki layihələrlə müqayisədə daha geniş kodların yazıldığı bir proyekt olaraq qarşımıza çıxır. Bu **todo siyahısında** (todo list) todo əlavə edilməsi, onların **filtr edilməsi**, istənməyən todoların **silinməsi** və ya **hamısının silinməsi** kimi funksionallıqlar mövcuddur.
+    Bu layihə, əvvəlki layihələrlə müqayisədə daha geniş kodların yazıldığı bir proyekt olaraq qarşımıza çıxır. Bu **todo siyahısında** (todo list) todo əlavə edilməsi, onların **filtr edilməsi**, istənməyən todoların **silinməsi** və ya **hamısının silinməsi** kimi funksionallıqlar mövcuddur.
 
-  Kod tərəfinə nəzər yetirsək, məlumatların saxlanması üçün **local storage**-dən istifadə olunduğunu görərik. Bundan əlavə, istifadəçi məlumat daxil etmədən klik etdiyi zaman müəyyən **məhdudiyyətlər** və **bildirişlər** göstərilir. Eyni qaydada, heç bir todo olmadığı halda filtr etdiyimiz zaman da **bildiriş** çıxarılması nəzərdə tutulub.
+    Kod tərəfinə nəzər yetirsək, məlumatların saxlanması üçün **local storage**-dən istifadə olunduğunu görərik. Bundan əlavə, istifadəçi məlumat daxil etmədən klik etdiyi zaman müəyyən **məhdudiyyətlər** və **bildirişlər** göstərilir. Eyni qaydada, heç bir todo olmadığı halda filtr etdiyimiz zaman da **bildiriş** çıxarılması nəzərdə tutulub.
 
-  **Xüsusi bir tapşırıq** olaraq, filtr girişində heç bir dəyər olmadığı halda belə `Backspace` (sil) düyməsinə basıldığında **bildiriş** çıxır. Bu problemi aradan qaldırarağ düzəliş edə bilərsiniz :)
+    **Xüsusi bir tapşırıq** olaraq, filtr girişində heç bir dəyər olmadığı halda belə `Backspace` (sil) düyməsinə basıldığında **bildiriş** çıxır. Bu problemi aradan qaldırarağ düzəliş edə bilərsiniz :)
 
 
     
