@@ -50,9 +50,11 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
   * ### Product tapmağ - filename: `productSearch`
       
-    Biz burada ilk öncə bir məlumat toplusu müəyyən productlar haqqında data yaratdığ özümüzdən. productList arreyi içərisində bu dataları topladığ. Daha sonra istifadəçidən gələn product adı ilə productList arreyi içərisindəki dataların productName hissələrini qarşılaədırdığ və burada bir birinə bərabər olan adlara sahib datalar başqa bir arreydə `push` methodu ilə yəni filter edilmiş arreydə toplanmış oldu. Artığ əlimizdə filter edilmiş datalar yəni istifadəçinin istədiyi datalar mövcuddur. Geridə qalan sadəcə bu məlumatı istifadəçiyə təqdim etməkdir. Bunun üçün başqa bir function yazırığ və bu filter edilmiş dataların toplandığı arreyi biz bu functiona parametr olarağ veririk. Function içərisində sadəcə bu arrey üzərində dönərək lazım olan hissələrini ekrana yazdırmağ qalır və bunu `console` ilə yazırığ.
+    İlk öncə, müəyyən **məhsullar** (product) haqqında məlumat toplusu yaratdıq. Bu məlumatları **productList** adlı array-də topladıq. Daha sonra istifadəçidən gələn məhsul adı ilə **productList** array-indəki məlumatların **productName** hissələrini qarşılaşdırdıq və uyğun gələn adlara sahib məlumatları başqa bir array-ə **push** metodu ilə, yəni **filtr edilmiş** array-ə əlavə etdik. Artıq əlimizdə istifadəçinin istədiyi filtr edilmiş məlumatlar mövcuddur. 
 
-    Normalda bu datalar bizə api istəkləri etdiyimiz zaman back-end tərəfdən gəlmiş olacaq. Bu zaman bizim özümüzdən müəyyən data yaratmağımız lazım olmayacaq. Burada sadəcə müəyyən functionallığların görülməsi üçün bu formada datalar yazdığ.
+    Sonrakı addım bu məlumatları istifadəçiyə təqdim etməkdir. Bunun üçün başqa bir **funksiya** yazdıq və bu filtr edilmiş məlumatların toplandığı array-i həmin funksiyaya parametr olaraq verdik. Funksiya daxilində sadəcə bu array üzərində dönərək lazım olan hissələri ekrana **console** vasitəsilə yazdırırıq.
+
+    Normalda bu məlumatlar bizə **API** sorğuları etdiyimiz zaman back-end tərəfindən gələcək. Bu halda özümüzün məlumat yaratmağımıza ehtiyac olmayacaq. Burada yalnız müəyyən funksionallıqları göstərmək üçün bu formada məlumat yazdıq.
 
   * ### Todo List - filename: `todoList`
       
