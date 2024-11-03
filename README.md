@@ -62,7 +62,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
     Kod tərəfinə nəzər yetirsək, məlumatların saxlanması üçün **local storage**-dən istifadə olunduğunu görərik. Bundan əlavə, istifadəçi məlumat daxil etmədən klik etdiyi zaman müəyyən **məhdudiyyətlər** və **bildirişlər** göstərilir. Eyni qaydada, heç bir todo olmadığı halda filtr etdiyimiz zaman da **bildiriş** çıxarılması nəzərdə tutulub.
 
-    **Xüsusi bir tapşırıq** olaraq, filtr inputunda heç bir dəyər olmadığı halda belə `Backspace` (sil) düyməsinə basıldığında **bildiriş** çıxır. Bu problemi aradan qaldırarağ düzəliş edə bilərsiniz:)
+    **Xüsusi bir tapşırıq** olaraq, filtr inputunda heç bir dəyər olmadığı halda belə `Backspace` (sil) düyməsinə basıldığında **bildiriş** çıxır. Bu problemi aradan qaldırarağ düzəliş edə bilərsiniz :)
 
 
     
