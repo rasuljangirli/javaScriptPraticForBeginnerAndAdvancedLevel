@@ -71,6 +71,10 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
     Ümumilikdə, API sorğuları göndərmək və məlumatları işləmək üçün əla bir layihədir. Bu layihəni yazdıqdan sonra, dostlarınıza "Google-un demo versiyasını yaratdım" deyə zarafat edə bilərsiniz! :))
 
+  * ### Saat - filename: `hour`
+      
+    Burada `Data` classının bizə təqdim etdiyi müxtəlif methodlar vasitəsi ilə saatın `saat` `dəqiqə` `saniyə` hissəsini yazmış olduğ. Daha sonra isə `HTML` hissəsində hər 
+
 
     
 ---
