@@ -65,6 +65,13 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
     **Xüsusi bir tapşırıq** olaraq, filtr inputunda heç bir dəyər olmadığı halda belə `Backspace` (sil) düyməsinə basıldığında **bildiriş** çıxır. Bu problemi aradan qaldırarağ düzəliş edə bilərsiniz :)
 
 
+  * ### Unsplas Api ilə İmg çəkmək - filename: `searchİmgUnsplashAPİ`
+      
+    Bu layihədə, `fetch` metodu ilə `API` sorğusu göndərilib. Gələn məlumatlar təmizlənmiş və düzgün şəkildə istifadə edilməsi göstərilmişdir. Kod daxilində müəyyən `commentlər` mövcuddur ki, bu da incələmə zamanı işinizi asanlaşdıracaq.
+
+    Ümumilikdə, API sorğuları göndərmək və məlumatları işləmək üçün əla bir layihədir. Bu layihəni yazdıqdan sonra, dostlarınıza "Google-un demo versiyasını yaratdım" deyə zarafat edə bilərsiniz! :))
+
+
     
 ---
 
