@@ -73,7 +73,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
   * ### Saat - filename: `hour`
       
-    Burada `Data` classının bizə təqdim etdiyi müxtəlif methodlar vasitəsi ilə saatın `saat` `dəqiqə` `saniyə` hissəsini yazmış olduğ. Daha sonra isə `HTML` hissəsində hər 1 saniyədən 
+    Burada `Data` classının bizə təqdim etdiyi müxtəlif methodlar vasitəsi ilə saatın `saat` `dəqiqə` `saniyə` hissəsini yazmış olduğ. Daha sonra isə `HTML` hissəsində hər 1 saniyədən 1 yenilənərək 
 
 
     
