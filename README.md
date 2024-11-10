@@ -1,4 +1,4 @@
-## JAVASCRIPT başlanğıc səviyyədən irəli səviyyəyə qədər
+## JAVASCRIPT başlanğıc səviyyədən irəli səviyyəyə qədər 
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
  
