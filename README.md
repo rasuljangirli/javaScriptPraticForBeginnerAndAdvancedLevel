@@ -1,6 +1,6 @@
 ## JAVASCRIPT başlanğıc səviyyədən irəli səviyyəyə qədər  
 
-Youtube kanalımda dərs videolarından yararlanmağ üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
+Youtube kanalımda dərs videolarından yararlanmaq üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
  
@@ -81,6 +81,6 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
     
 ---
 
-Youtube kanalımda dərs videolarından yararlanmağ üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
+Youtube kanalımda dərs videolarından yararlanmaq üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
 
 Medium hesabımda məqalələrimlə tanış olmaq üçün [klikləyin](https://medium.com/@rasuljangirli).
