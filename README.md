@@ -83,7 +83,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
     Bu layihədə **GitHub API-lərindən** istifadə edərək istifadəçi məlumatlarını API vasitəsilə çəkərək istədiyimiz formada istifadə etdik.  
     Örnək olaraq müxtəlif məlumatlar (profil şəkli və s.) səhifədə əks olundu.
 
-    ## Xüsusiyyətlər
+    # Xüsusiyyətlər
     - GitHub API inteqrasiyası
     - Profil şəkli və məlumatların dinamik olaraq göstərilməsi
     - Minimalist və istifadəçi dostu interfeys
