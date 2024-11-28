@@ -78,6 +78,16 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
     Burada `Data` classının bizə təqdim etdiyi müxtəlif methodlar vasitəsi ilə saatın `saat` `dəqiqə` `saniyə` hissəsini yazmış olduğ. Daha sonra isə `HTML` hissəsində hər 1 saniyədən 1 yenilənərək göstərilməsini yazdığ.
 
 
+  * ### Github Profil məlumatları - filename: `githubProfiles`
+      
+    Bu layihədə **GitHub API-lərindən** istifadə edərək istifadəçi məlumatlarını API vasitəsilə çəkərək istədiyimiz formada istifadə etdik.  
+    Örnək olaraq müxtəlif məlumatlar (profil şəkli və s.) səhifədə əks olundu.
+
+    ## Xüsusiyyətlər
+    - GitHub API inteqrasiyası
+    - Profil şəkli və məlumatların dinamik olaraq göstərilməsi
+    - Minimalist və istifadəçi dostu interfeys
+
     
 ---
 
