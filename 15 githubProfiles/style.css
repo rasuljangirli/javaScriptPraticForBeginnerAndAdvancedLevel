@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column ;
+    gap: 20px;
+    width: 100%;
+    height: 100vh;
+
+}
+
+#form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+input[type = text],select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+
+.container_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.container_2 {
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(44, 109, 174);
+    height: 40;
+    width: 50%;
+    gap: 30px;
+}
+
+.img_container {
+    width: 30%;
+}
+
+.img_container > img {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid red;
+}
+
+.about_container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-start; */
+    justify-content:flex-start;
+}
+
+.name {
+    font-size: 2rem;
+    /* margin-bottom: 10px; */
+}
+
+ul > li {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.main {
+    margin: 10px 0px;
+}
+
+.repo {
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 2px 7px;
+    display: inline-block;
+    margin: 0 5px;
+}
