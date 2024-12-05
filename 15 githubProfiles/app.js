@@ -2,7 +2,7 @@ const form = document.querySelector("#form");
 const input = document.querySelector("#search");
 const divUI = document.querySelector(".container_1");
 
-// BaseUrl yazıb istifadə etməyiniz daha yaxşı olar.
+// BaseUrl yazıb istifadə etməyiniz daha yaxşı olar
 
 form.addEventListener("submit", (e) => {
     e.preventDefault();
