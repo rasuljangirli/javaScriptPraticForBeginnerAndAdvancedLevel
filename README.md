@@ -1,4 +1,4 @@
-## JAVASCRIPT başlanğıc səviyyədən irəli səviyyəyə qədər
+## JAVASCRIPT başlanğıc səviyyədən irəli səviyyəyə qədər 
 
 Youtube kanalımda dərs videolarından yararlanmaq üçün [klikləyin](https://www.youtube.com/@rasul_jangirli). 
 
