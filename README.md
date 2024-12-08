@@ -103,7 +103,7 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
     - Siyahıdakı hər hansı tapşırığı silə bilərsiniz.
     - Saxlanılmış tapşırıqlar səhifə yükləndikdə avtomatik göstərilir.
 
-    Bu proyekt JavaScript öyrənmək üçün hazırlanmışdır və əsas məntiqi funksiyalar təqdim edir.
+    Bu proyektin əsas məntiqi funksiyalar təqdim edir.
 
 
 
