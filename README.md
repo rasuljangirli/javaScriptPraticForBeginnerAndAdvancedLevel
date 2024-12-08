@@ -93,15 +93,15 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
 
     Bu proyekt sadə bir To-Do List proqramıdır. İstifadəçilər tapşırıqlarını əlavə edə, silə və saxlayıb sonradan görə bilərlər. Bundan sonrakı folderlərdə də todo listlər yazılacaq müxtəlif zamanlarda fərqli formada yazıldıqları üçün hər birini bura əlavə etmək istədim.
 
-    ## Xüsusiyyətlər
+    # Xüsusiyyətlər
     - Tapşırıq əlavə etmə və silmə funksiyaları mövcuddur.
     - Verilənlər brauzerin `localStorage`-ində saxlanılır.
     - Dinamik istifadəçi interfeysi ilə işləyir.
 
-    ## Necə İşləyir?
-    1. Tapşırıq mətnini daxil edib əlavə edin.
-    2. Siyahıdakı hər hansı tapşırığı silə bilərsiniz.
-    3. Saxlanılmış tapşırıqlar səhifə yükləndikdə avtomatik göstərilir.
+    # Necə İşləyir?
+    - Tapşırıq mətnini daxil edib əlavə edin.
+    - Siyahıdakı hər hansı tapşırığı silə bilərsiniz.
+    - Saxlanılmış tapşırıqlar səhifə yükləndikdə avtomatik göstərilir.
 
     Bu proyekt JavaScript öyrənmək üçün hazırlanmışdır və əsas məntiqi funksiyalar təqdim edir.
 
