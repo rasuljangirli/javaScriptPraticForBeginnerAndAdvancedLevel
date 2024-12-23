@@ -1,4 +1,4 @@
-let product1 = {
+let product1 = { 
     productName: "Lenova S340",
     productCategory: "Technology",
     price: "1200"
