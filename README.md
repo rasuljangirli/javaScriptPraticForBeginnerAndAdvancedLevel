@@ -106,6 +106,11 @@ Bu repomda həm öyrənmə həm də öyrətmə prosesində istifadə etdiyim pro
     Bu proyektin əsas məntiqi funksiyalar təqdim edir.
 
 
+  * ### Carusel Cars - filename: `carsCarusel`
+
+    Burada maraqlı bir praktika həyata keçirdik. Müxtəlif şəkillərdən ibarət cardlar hazırladıq və bunlara `JS` ilə dinamiklik əlavə etdik. Siz şəkilləri dəyişdirədə bilərsiniz. Az hissəsində JavaScript istifadə edildi lakin maraqlı bir lahiyə alındı.
+
+
 
 
 
