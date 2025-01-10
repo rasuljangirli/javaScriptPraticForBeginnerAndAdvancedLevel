@@ -14,3 +14,6 @@ if (vct < 18.5) {
     console.log(" İdeal kilonun çok üstünde (xəstəlik dərin)");
 }
 
+
+
+
