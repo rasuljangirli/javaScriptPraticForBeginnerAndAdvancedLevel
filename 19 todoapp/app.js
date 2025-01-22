@@ -17,7 +17,7 @@ function runEvenst() {
     clearButton.addEventListener("click", allTodosEverywhere);
     filterInput.addEventListener("keyup", filter);
 }
-// Storageden deyer alip on yuze eklemek
+// Storageden deyer alib Uİ elave etmek
 function pageLoaded() {
     checkTodosFromStorage();
     todos.forEach(function (todo) {
@@ -42,11 +42,11 @@ function filter(e) {
     }
 
 }
-// tum todolari silme
+// tum todolari silmek
 function allTodosEverywhere() {
     const todoLists = document.querySelectorAll(".list-group-item");
     if (todoLists.length > 0) {
-        // silme islemi
+        // silme prosesi
         todoLists.forEach(function (todo) {
             todo.remove();
         })
@@ -59,19 +59,19 @@ function allTodosEverywhere() {
     }
 
 }
-// UI-dan element silme
+// UI-dan element silmek
 function removeTodoToUI(e) {
     if (e.target.className === "fa fa-remove") {
-        // UI-dan silme
+        // UI-dan silmek
         const todo = e.target.parentElement.parentElement;
         todo.remove();
-        // Storage silme
+        // Storage silmek
         removeTodoToStorage(todo.textContent);
         showAlert("secondary", "Todo Silindi")
     }
 }
 
-// LocalStorageden silme
+// LocalStorageden silmek
 function removeTodoToStorage(removeTodo) {
     checkTodosFromStorage();
     todos.forEach(function (todo, index) {
@@ -127,7 +127,7 @@ function addTodoToStorage(newTodo) {
     localStorage.setItem("todos", JSON.stringify(todos));
 }
 
-// localda olan arreyin bos ve ya dolu olmasini yoxlayan ve tenzimleyen metod
+// localda olan arreyin bos ve ya dolu olmasini yoxlayan ve tenzimleyen method
 function checkTodosFromStorage() {
     if (localStorage.getItem("todos") === null) {
         todos = [];
@@ -136,7 +136,7 @@ function checkTodosFromStorage() {
     }
 }
 
-// Bilgilendirme mesaji alert eklemek
+// Melumatlandirici mesaj alert
 function showAlert(type, message) {
     /*
      <div class="alert alert-success" role="alert">
