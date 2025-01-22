@@ -1,4 +1,4 @@
-## JAVASCRIPT başlanğıc səviyyədən irəli səviyyəyə qədər
+## JAVASCRIPT öyrənmə müddətində sizə çox şey qatacaq olan proyektlər
 
 Youtube kanalımda dərs videolarından yararlanmaq üçün [klikləyin](https://www.youtube.com/@rasul_jangirli).
 
